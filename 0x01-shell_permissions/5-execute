@@ -1,2 +1,0 @@
-#!bash/bin/bash
-chmond 0700 hello.sh
