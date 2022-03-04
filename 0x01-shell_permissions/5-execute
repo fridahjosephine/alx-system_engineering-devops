@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod 600 hello
+#!bash/bin/bash
+chmond 0700 hello.sh
